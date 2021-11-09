@@ -7,6 +7,7 @@
     android:background="@color/black"
     tools:context=".MainActivity">
 
+    <!-- hello -->
     <TableLayout
         android:id="@+id/tableLayout"
         android:layout_width="match_parent"
